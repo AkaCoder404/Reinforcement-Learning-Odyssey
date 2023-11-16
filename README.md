@@ -12,26 +12,28 @@ and more to come!
 All the following programs was done in python version 3.8.
 
 
+
 ## Examples
 Here are some examples of the results
 
 ### Frozen Lake
-| Frozen Lake w/ Q-Learning                                      |                                                                                                 |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-|                                                                |
-| <video src='./FrozenLake/videos/4x4-episode-0.mp4' width=180/> | <video controls> <source src="./FrozenLake/videos/8x8-episode-0.mp4" type="video/mp4"> </video> |
+| Frozen Lake w/ Q-Learning    4x4         | Frozen Lake w/ Q-Learning 8x8            |
+| ---------------------------------------- | ---------------------------------------- |
+|                                          |
+| ![](FrozenLake/videos/4x4-episode-0.gif) | ![](FrozenLake/videos/8x8-episode-0.gif) |
+
 
 
 ### Cart Poole
-| Cart Poole w/ Q-Learning                                                                           | Training Reward                   |
-| -------------------------------------------------------------------------------------------------- | --------------------------------- |
-| <video controls> <source src="./CartPole/videos/cartpole-episode-0.mp4" type="video/mp4"> </video> | ![](./CartPole/total_rewards.png) |
+| Cart Poole w/ Q-Learning                      | Training Reward                   |
+| --------------------------------------------- | --------------------------------- |
+| ![](./CartPole/videos/cartpole-episode-0.gif) | ![](./CartPole/total_rewards.png) |
 
 
 ### Multi Particle Environments (MPE) with MADDPG
-| Simple Tag with one Good, one Adversary                                                                                          | Simple Tag with one Good, two Adversary, two Obstacle                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <video controls> <source src="./MLE/results/simple_tag_v3/run_3/mpe_good_1_adv_1_obs_0-episode-0.mp4" type="video/mp4"> </video> | <video controls> <source src="./MLE/results/simple_tag_v3/run_4/mpe_good_1_adv_3_obs_2-episode-0.mp4" type="video/mp4"> </video> |
+| Simple Tag with one Good, one Adversary                                     | Simple Tag with one Good, two Adversary, two Obstacle                       |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ![](./MLE/results/simple_tag_v3/run_3/mpe_good_1_adv_1_obs_0-episode-0.gif) | ![](./MLE/results/simple_tag_v3/run_4/mpe_good_1_adv_3_obs_2-episode-0.gif) |
 
 
 
