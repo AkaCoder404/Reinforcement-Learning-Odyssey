@@ -1,0 +1,15 @@
+# Ignore all .pt and .npy files
+global-exclude *.pt
+global-exclude *.npy
+
+*.pt
+*.npy
+
+# Ignore all __pycache__ directories and .DS_Store files
+global-exclude __pycache__
+global-exclude .DS_Store
+
+
+.vscode
+.DS_Store
+**/__pycache__/
