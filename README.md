@@ -20,9 +20,9 @@ Here are some examples of the results
 | ------------------------- | --- |
 |                           |     |
 ### Frozen Lake
-| Frozen Lake w/ Q-Learning                                                                       |                                                                                                 |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <video controls> <source src="./FrozenLake/videos/4x4-episode-0.mp4" type="video/mp4"> </video> | <video controls> <source src="./FrozenLake/videos/8x8-episode-0.mp4" type="video/mp4"> </video> |
+| Frozen Lake w/ Q-Learning                  |                                                                                                 |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| ![](./FrozenLake/videos/4x4-episode-0.mp4) | <video controls> <source src="./FrozenLake/videos/8x8-episode-0.mp4" type="video/mp4"> </video> |
 
 
 ### Cart Poole
